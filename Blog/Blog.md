@@ -1,6 +1,6 @@
 <h1 align = 'center'>HIDING IMAGES IN IMAGES</h1> 
 
-Steganography is the practice of hiding a secret message inside of something that is not secret. That something which is not secret can be an image, word document or even an excel sheet.
+Steganography is the practice of hiding a secret message inside of something that acts as a carrier. That something carrier can be an image, word document or even an excel sheet.
 
 <p align= 'center'>
 <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Photo_thumbnail.jpg" style="zoom:50%" />
