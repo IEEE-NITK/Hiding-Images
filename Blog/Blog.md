@@ -91,11 +91,15 @@ We perceive an image in terms of its brightness and colors. The Fourier transfor
 
 The discrete Fourier transform can be obtained by sampling the Fourier transform of an image at certain frequencies.  The discrete Fourier transform of an image has the same size as the image. Using the inverse discrete Fourier transform  it is possible to recover the image from frequency domain.
 
-<p align='center'>
-<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/dft.gif" style="zoom:80%;"/>
+<p align='left'>
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/img1.png" style="zoom:80%;"/>
 </p>
 
-<p align = 'center'> Images and discrete fourier transform pairs</p>
+<p align='right'>
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/img2.png" style="zoom:80%;"/>
+</p>
+
+<p align = 'center'> Image and its DFT Magnitude</p>
 
 The DFT of an image results in a matrix of complex numbers. When plotting DFT we plot only the magnitude of the DFT. 
 
