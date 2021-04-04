@@ -116,6 +116,8 @@ The Hiding Network takes two inputs:
 * The Host image/ Cover Image (H)
 * The prepared image
 
+The Hiding Network then hides the prepared image inside the host H. The resulting output of the Hiding Network is called the **Container Image** (H').
+
 <p align='center'>
     <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/deepcnn1.png" />
 </p>
