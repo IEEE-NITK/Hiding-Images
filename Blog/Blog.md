@@ -139,3 +139,14 @@ The following images were obtained on training the CNNs for optimal performance.
     <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/c2.png" />
     <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/d2.png" />
 </p>
+
+
+## ADVANTAGES OF CNN-BASED IMPLEMENTATION OVER OTHERS
+
+The security of hiding process depends on a lot of factors. One of the important factors is distribution of pixel characteristics of Hidden image (S) over the the Host image (H). If the information of one pixel of S, is hidden in a single pixel of the host image, it can be recovered easily by training suitable AI based models. But if the information of a single pixel of S, is distributed over several pixels of H, the hiding process is more concrete.
+
+Deep Learning based approach helps here a lot, as shown below, it is evident that the information of one pixel of S is roughly distributed over 7 pixels of H.
+
+<p align='center'>
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/pixel_dist.png" />
+</p>
