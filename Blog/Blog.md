@@ -121,3 +121,9 @@ The Hiding Network then hides the prepared image inside the host H. The resultin
 <p align='center'>
     <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/deepcnn1.png" />
 </p>
+
+The Reveal Network is then used to recover the hidden image. It take the Container image (H') as input, and outputs the **Revealed Image** (S').
+
+**The important point to note here is that, all three models are actually trained as a single model.**
+
+This is to ensure that the Preparation Network, Hiding Network and Reveal Network work exclusively for each other, i.e., no other differently trained Reveal Network can be used to reveal the Container image (H'). This includes some privacy constraints, So that only the receiver with the appropriate Reveal Network can recover the image exactly.
