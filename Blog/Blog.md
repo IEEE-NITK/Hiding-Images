@@ -32,7 +32,7 @@ Advantage of steganography over cryptography is that the intended secret message
 
 
 \
-\
+
 
 
 <h2 align = 'center'>OUR PROJECT</h2>
