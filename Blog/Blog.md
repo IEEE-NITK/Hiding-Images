@@ -1,7 +1,7 @@
 <h1 align = 'center'>HIDING IMAGES IN IMAGES</h1> 
 
 
-</p align='center'>
+<p align='center'>
 <img src="Images\Photo_thumbnail.jpg" style="zoom:80%;" />
 </p>
 
