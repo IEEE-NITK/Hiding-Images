@@ -9,10 +9,11 @@ Steganography is the practice of hiding a secret message inside of something tha
 
 <p float="left">
     <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Steganography_original.png" width="250" align = 'left'/>
-    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Steganography_recovered.png" width="250" align = 'right'/>
 </p>
 
-
+<p float='right>
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Steganography_recovered.png" width="250" align = 'right'/>
+</p>
 
 
 
