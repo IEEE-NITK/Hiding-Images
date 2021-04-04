@@ -150,3 +150,7 @@ Deep Learning based approach helps here a lot, as shown below, it is evident tha
 <p align='center'>
     <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/pixel_dist.png" />
 </p>
+
+## FUTURE IMPROVEMENTS ON THIS PROJECT
+
+In this project, only one image is hidden inside the host. Further research evidences show that multiple images can be hidden inside an single host image, making the hising proces even more complex, yet secure, since adversaries now need to look for an arbitrary number of images to recover, which is practically impossible.
