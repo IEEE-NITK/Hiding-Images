@@ -2,7 +2,7 @@
 
 
 
-<img src="D:\NIT Surathkal\IEEE\Steganography\Hiding_Images_blog\Images\Photo_thumbnail.jpg" style="zoom:80%;" />
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Photo_thumbnail.jpg" style="zoom:80%;" />
 
 
 
