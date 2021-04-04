@@ -6,7 +6,7 @@
 </p>
 
 
-Steganography is the practice of hiding a secret message inside of something that is not secret. That something which is not secret can be an image, word document or even an excel sheet.
+Steganography is the practice of hiding a secret message inside an image which acts as a carrier. The carrier can be an image, word document or even an excel sheet.
 
 
 
