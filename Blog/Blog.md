@@ -72,8 +72,11 @@ The new image is hardly distinguishable from older image!
 
 To hide an RGB image in an RGB image former will have to be atleast 4 times smaller than the latter if we use the above method. 
 
+Similar apporach is used in hiding an RGB image inside another RGB image. We may use k=4, as an example see the hiding process.
 
-
+<p align='center'>
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/K-LSB%20in%20Images.png"  align = 'center'  />
+</p>
 
 
 ## DISCRETE FOURIER TRANSFORM (DFT) METHOD
