@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Photo_thumbnail.jpg" style="zoom:80% align= centre;" />
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Photo_thumbnail.jpg" style="zoom:50% align= center;" />
 
 
 
