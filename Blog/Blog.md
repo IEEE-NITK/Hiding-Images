@@ -101,3 +101,9 @@ The DFT of an image results in a matrix of complex numbers. When plotting DFT we
 
 In this approach we use the DFT to hide an image. To avoid complications due to complex numbers we will not use DFT of entire host image to hide an image. We will take DFT of 2x2 blocks in the image and add to it scaled pixel values of hidden image. Then taking the IDFT of the 2x2 block will give the corresponding 2x2 block in steganographic image. 
 
+## DEEP LEARNING-BASED METHOD
+
+
+<p align='center'>
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/deepcnn1.png" />
+</p>
