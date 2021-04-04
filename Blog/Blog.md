@@ -97,7 +97,7 @@ The discrete Fourier transform can be obtained by sampling the Fourier transform
 </p>
 
 
-<p align = 'center'> Image and its DFT Magnitude</p>
+<pre class = tab> Image		                                                                Magnitude of its DFT </pre>
 
 The DFT of an image results in a matrix of complex numbers. When plotting DFT we plot only the magnitude of the DFT. 
 
