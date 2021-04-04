@@ -28,7 +28,7 @@ Steganography is the practice of hiding a secret message inside of something tha
 
 
 
-Advantage of steganography over cryptography is that the intended secret message does not attract attention to itself. Cryptography is a science that enables privacy, steganography is a practice that enables secrecy.
+\Advantage of steganography over cryptography is that the intended secret message does not attract attention to itself. Cryptography is a science that enables privacy, steganography is a practice that enables secrecy.
 
 
 
