@@ -11,8 +11,8 @@ Steganography is the practice of hiding a secret message inside of something tha
 
 
 <p float="left">
-    <img src="Images\Steganography_original.png" width="250" align = 'left'/>
-    <img src="Images\Steganography_recovered.png" width="250" align = 'right'/>
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Steganography_original.png" width="250" align = 'left'/>
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/Steganography_recovered.png" width="250" align = 'right'/>
 </p>
 
 
@@ -58,14 +58,14 @@ The K-LSB method of hiding images in images is based on the observation that a s
 
 For an example of the K-LSB method consider the 4 pixels below
 
-<img src="D:\NIT Surathkal\IEEE\Steganography\Hiding_Images_blog\Images\grayscale_image.png" style="zoom:80%;" />     
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/grayscale_image.png" style="zoom:80%;" />     
 
 The 8 bit representations of the pixels are respectively 01111000, 00001010, 10100000, 11110000
 
 Suppose we want to hide the letter H in the image. ASCII code of H is <span style='color:red'>01000111</span>.  After hiding the pixel values will be
 011110<span style='color:red'>01</span>, 000010<span style='color:red'>00</span>, 10100000<span style='color:red'>01</span>, 111100<span style='color:red'>11</span>. Constructing the image from new 4 pixels,
 
-<img src="D:\NIT Surathkal\IEEE\Steganography\Hiding_Images_blog\Images\hidden.png"  align = 'left'  />
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/hidden.png"  align = 'left'  />
 
 
 
@@ -85,7 +85,7 @@ We perceive an image in terms of its brightness and colors. The Fourier transfor
 
 The discrete Fourier transform can be obtained by sampling the Fourier transform of an image at certain frequencies.  The discrete Fourier transform of an image has the same size as the image. Using the inverse discrete Fourier transform  it is possible to recover the image from frequency domain.
 
-<img src="D:\NIT Surathkal\IEEE\Steganography\Hiding_Images_blog\Images\dft.gif" style="zoom:80%;"/>
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/dft.gif" style="zoom:80%;"/>
 
 <p align = 'center'> Images and discrete fourier transform pairs</p>
 
