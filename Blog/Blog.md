@@ -93,11 +93,9 @@ The discrete Fourier transform can be obtained by sampling the Fourier transform
 
 <p align='left'>
 <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/img1.png" style="zoom:80%;"/>
+<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/img2.png" style="zoom:80%;" align='right/>
 </p>
 
-<p align='right'>
-<img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/img2.png" style="zoom:80%;"/>
-</p>
 
 <p align = 'center'> Image and its DFT Magnitude</p>
 
