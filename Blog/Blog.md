@@ -75,7 +75,13 @@ The new image is hardly distinguishable from older image!
 
 To hide an RGB image in an RGB image former will have to be atleast 4 times smaller than the latter if we use the above method. 
 
+Similar appoach can be used to hide images within images. The below example shows K-LSB based hiding, where K=4.
 
+<p align='center'>
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/K-LSB%20in%20Images-1.png" />
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/K-LSB%20in%20Images.png" />
+
+</p>
 
 
 
