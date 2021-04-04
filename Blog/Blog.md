@@ -34,6 +34,7 @@ Advantage of steganography over cryptography is that the intended secret message
 \
 \
 \
+
 <h2 align = 'center'>OUR PROJECT</h2>
 
 Our project aims to hide images in images using 3 different approaches. 
