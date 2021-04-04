@@ -127,3 +127,15 @@ The Reveal Network is then used to recover the hidden image. It take the Contain
 **The important point to note here is that, all three models are actually trained as a single model.**
 
 This is to ensure that the Preparation Network, Hiding Network and Reveal Network work exclusively for each other, i.e., no other differently trained Reveal Network can be used to reveal the Container image (H'). This includes some privacy constraints, So that only the receiver with the appropriate Reveal Network can recover the image exactly.
+
+
+## RESULTS
+
+The following images were obtained on training the CNNs for optimal performance.
+
+<p align='center'>
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/c1.png" />
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/d1.png" />
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/c2.png" />
+    <img src="https://github.com/IEEE-NITK/Hiding-Images/blob/main/Blog/Images/d2.png" />
+</p>
